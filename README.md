@@ -46,13 +46,13 @@ The Power BI report contains four sections:
 - 2021 recorded a substantial recovery in sales and profitability compared with 2020.
 - The West generated the highest regional sales but had the lowest regional operating margin.
 - Online recorded the highest operating margin among the sales methods analysed.
-
+- 
 ## Recommendations
 
-- Convert recovery-driven demand into repeat purchasing and customer retention.
-- Prioritise profitable product and channel combinations.
-- Investigate margin performance in high-revenue, lower-margin markets.
-- Shift focus from exceptional volume growth toward sustainable, profitable growth.
+- **Convert recovery into retention** — Use digital engagement and repeat-purchase strategies to turn rebound demand into recurring customers.
+- **Scale profitable combinations** — Prioritise high-margin product and channel combinations while investigating high-revenue, lower-margin areas such as the West.
+- **Shift from volume to value** — As post-pandemic growth normalises, prioritise margin, channel productivity and sustainable demand over exceptional sales volume.
+- **Build a resilient growth engine** — Use the recovery as a foundation for consistent, profitable growth rather than relying on another demand spike.
 
 ## Data
 
