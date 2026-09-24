@@ -17,7 +17,7 @@ How can Adidas understand its commercial performance and convert post-pandemic r
 - Power BI
 - DAX
 - Excel
-
+- 
 ## Analysis
 
 The analysis covers:
